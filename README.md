@@ -6,7 +6,16 @@ This repository contains a Jupyter Notebook and supporting code to build an Obje
 
 - `README.md`: Project overview and instructions.
 - `requirements.txt`: List of Python packages required to run the application.
-- `Object_detection_assistant.ipynb`: The code of the AI assistant. 
+- `Object_detection_assistant.ipynb`: The code of the AI assistant.
+
+## Hugging Face Models 
+
+`detr-resnet-50` : well-regarded choice for object detection tasks. It's part of a wide range of models available in the AI ecosystem, accessible through platforms like the Hugging Face Hub.
+
+
+`vits-ljs`: text-to-speech pipeline from kakao-enterprise.
+
+
 ## Installation
 
 To install the required packages, run:
