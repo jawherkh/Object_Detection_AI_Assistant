@@ -1,6 +1,6 @@
-# Object Detection Assistant
+# Object Detection Assistant for the visually impaired individuals
 
-This repository contains a Jupyter Notebook and supporting code to build an Object Detection Assistant. The application is designed to help visually impaired users understand the contents of images by detecting objects, summarizing the results, and converting the summary into speech.
+This repository contains a Jupyter Notebook and supporting code to build an Object Detection Assistant. The application is designed to help visually impaired users understand the contents of images by detecting objects, summarizing the results, and converting the summary into speech that will communicate the results with visually impaired people
 
 ## Project Structure
 
