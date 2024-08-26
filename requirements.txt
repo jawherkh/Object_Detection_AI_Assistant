@@ -1,0 +1,5 @@
+transformers
+gradio
+timm
+inflect
+phonemizer
