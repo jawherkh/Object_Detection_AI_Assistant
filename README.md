@@ -18,3 +18,16 @@ To install the required packages, run:
 
 ```bash
 pip install -r requirements.txt
+```
+## Usage
+
+
+Object Detection and Summary: Run the Jupyter Notebook to perform object detection on images and generate a natural language summary.
+Text-to-Speech: Use the provided text_to_speech.py script to convert the generated text summary into speech.
+
+
+## Example
+
+![image](https://github.com/user-attachments/assets/13d024bc-22a3-4c83-8346-bf2d2a86e46d)
+![Screenshot_26-8-2024_213742_colab research google com](https://github.com/user-attachments/assets/202b6b61-f724-4e7a-a8f9-a2cbb2f6d14b)
+![Screenshot_26-8-2024_21381_colab research google com](https://github.com/user-attachments/assets/38a3e922-da4f-450f-9162-3e4569f8c7c8)
