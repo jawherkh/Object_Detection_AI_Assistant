@@ -3,3 +3,5 @@ gradio
 timm
 inflect
 phonemizer
+pyttsx3 
+espeak
